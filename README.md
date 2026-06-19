@@ -11,13 +11,7 @@
 - 💼 Buscando por **Projetos Interessantes**  
 - 📫 Contato: derikrocha9@gmail.com  
 
-## 🦸‍♂️ Estatísticas
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yHeyDark&theme=dark&locale=pt-br"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yHeyDark&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
-</a>
+
 
 <!--
 **FxDlclock/FxDlclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
