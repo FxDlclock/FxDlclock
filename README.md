@@ -1,4 +1,23 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&pause=1041&color=FFFFFF&background=00000000&random=false&width=435&lines=Ol%C3%A1+me+chamo+Derik;Bem-vindo(a)+ao+meu+Github" alt="Typing SVG" /></a>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJpNWZxNnNpZmtkYzc4YmJyd3dkajZ6MGxka2tobHp4NzRza3BsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="pixel Banner" width="800" />
+</div>
+
+## 🦇 Sobre mim
+- 🌱 **Técnico** em Desenvolvimento de Sistemas  
+- 🎓 **Tecnólogo** em Sistemas para Internet  
+- 😄 Interesse em **Back-end**  
+- 💼 Buscando por **Projetos Interessantes**  
+- 📫 Contato: derikrocha9@gmail.com  
+
+## 🦸‍♂️ Estatísticas
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yHeyDark&theme=dark&locale=pt-br"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yHeyDark&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
+</a>
 
 <!--
 **FxDlclock/FxDlclock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
